@@ -2,7 +2,7 @@
 ### A Multivariate Analysis Using an ELT Data Pipeline
 
 ![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-2.0-150458?logo=pandas&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-3.0-150458?logo=pandas&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-Public-E97627?logo=tableau&logoColor=white)
 ![Data Source](https://img.shields.io/badge/Data-Our%20World%20in%20Data-crimson)
 ![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
